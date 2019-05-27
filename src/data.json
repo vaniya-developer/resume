@@ -1,0 +1,78 @@
+{
+"title": "Hello I`m Hadi bayramian",
+"subtitle": "vaniya developer | Open-Source Enthusiast",
+"links": {
+    "github":"https://github.com/jaketrent",
+    "instagram":"https://www.instagram.com/hadi.bairamyan",
+    "linkedin":"https://www.linkedin.com",
+    "stackoverflow":"https://stackoverflow.com",
+    "gmail":"https://mail.google.com/mail/u/0/#inbox"
+},
+"section": [
+    {
+        "title": "About",
+        "items": [
+            {
+                "type":"p",
+                "content":
+                "Hi, I've been developing love projects for two years.I'm happy to be able to work with you."
+            }
+        ]
+    },
+    {
+        "type":"p1",
+        "title": "Skills",
+        "items": [
+            {
+                "type":"card",
+                "content":{
+                    "image":"./image/react.jpg",
+                    "title":"react"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+                    "image":"./image/android.jpg",
+                    "title":"android"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+                    "image":"./image/c++.jpg",
+                    "title":"c++"
+                }
+            },
+             {
+                "type":"card",
+                "content":{
+                    "image":"./image/html.jpg",
+                    "title":"html & css & html"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+                    "image":"./image/paython.jpg",
+                    "title":"paython"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+                    "image":"./image/java1.jpg",
+                    "title":"java"
+                }
+            }
+        ]
+    }
+],
+"icons":{
+    "down":"./image/icon.png",
+    "theme":"./image/13.png",
+    "about":"./image/12.png",
+    "skill":"./image/11.png"
+}
+
+}
